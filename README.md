@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Application Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/JISHNU376">
+  <a href="https://github.com/JISHNUR21">
     <img src="https://komarev.com/ghpvc/?username=JISHNU376&label=Profile%20Views&color=0e75b6&style=flat" alt="JISHNU376" />
   </a>
 </p>
